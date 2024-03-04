@@ -1,0 +1,1 @@
+This project investigated whether the duration of breastfeeding is associated with the risk of cavities incidence (whether increased or decreased) among children aged 0-5 years while accounting for pertinent confounding factors using data from the 2021 National Survey of Children’s Health.
